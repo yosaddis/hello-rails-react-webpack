@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem  'react_on_rails'
+gem  'shakapacker'
+gem  'foreman'
